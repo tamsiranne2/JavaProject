@@ -12,7 +12,12 @@ public class FirstJavaClass {
 	    public void testAddition() {
 	        assertEquals(4, 2 + 2);
 	    }
+		
+	    public void anotherTestMethod() {
+	        //assertEquals(4, 2 + 2);
+	    }
 
+ 
 	    public static void main(String[] args) {
 	        System.out.println("Hello from Java!");
 	    }
